@@ -9,7 +9,7 @@
  
     AI를 통한 마스크 미착용자 식별 -> 발열유무 체크 -> QR코드를 이용한 출입명부 작성
     
-![ex_screenshot](./img/screenshot.png)
+![3level](./image/3level.jpg)
 
 ### Usage
 
